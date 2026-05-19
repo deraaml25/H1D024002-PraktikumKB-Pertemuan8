@@ -73,3 +73,7 @@ python main.py
 - NumPy
 - Pandas
 - Matplotlib
+
+Nama : Dera Amelia
+NIM : H1D024002
+Pertemuan 8
